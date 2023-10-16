@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'Moririse2';
+  font-display: swap;
+  src:  url('mobirise2.eot?f2bix4');
+  src:  url('mobirise2.eot?f2bix4#iefix') format('embedded-opentype'),
+    url('mobirise2.ttf?f2bix4') format('truetype'),
+    url('mobirise2.woff?f2bix4') format('woff'),
+    url('mobirise2.svg?f2bix4#mobirise2') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="mobi-"], [class*=" mobi-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Moririse2' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.mobi-mbri-align-center:before{
+  content:"\e902"
+}
+.mobi-mbri-align-justify:before{
+  content:"\e903"
+}
+.mobi-mbri-bootstrap:before{
+  content:"\e90e"
+}
+.mobi-mbri-close:before{
+  content:"\e91a"
+}
+.mobi-mbri-features:before{
+  content:"\e92e"
+}
+.mobi-mbri-globe-2:before{
+  content:"\e934"
+}
+.mobi-mbri-globe:before{
+  content:"\e935"
+}
+.mobi-mbri-home:before{
+  content:"\e939"
+}
+.mobi-mbri-info:before{
+  content:"\e93e"
+}
+.mobi-mbri-layers:before{
+  content:"\e942"
+}
+.mobi-mbri-like:before{
+  content:"\e946"
+}
+.mobi-mbri-link:before{
+  content:"\e947"
+}
+.mobi-mbri-menu:before{
+  content:"\e94d"
+}
+.mobi-mbri-mobirise:before{
+  content:"\e951"
+}
+.mobi-mbri-target:before{
+  content:"\e981"
+}
+.mobi-mbri-users:before{
+  content:"\e993"
+}
+.mobi-mbri-website-theme-2:before{
+  content:"\e997"
+}
+.mobi-mbri-website-theme:before{
+  content:"\e998"
+}
