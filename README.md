@@ -6,6 +6,8 @@ at its core, the website will be a host for a number of areas of cyber security,
 themselves on the world of cyber security, but also a place for people to push their skills and further their knowledge, with the 
 appeal of bounties and prizes infront of them.
 
+a full video demonstration and report can be shown on request.
+
 below a number of proof of concept screenshots can be found.
 
 landing / splash page
